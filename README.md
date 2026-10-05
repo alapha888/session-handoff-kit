@@ -23,3 +23,13 @@ npx skills add alapha888/session-handoff-kit
 Agent output quality drops as context fills with stale exploration. The fix is not a bigger context window; it is a habit: capture state before you reset, in a format the next session can execute from without re-asking you everything.
 
 MIT licensed. Feedback via GitHub issues.
+
+## Install via skills.sh
+
+Listed at [skills.sh/alapha888/session-handoff-kit](https://skills.sh/alapha888/session-handoff-kit).
+
+```bash
+npx skills add alapha888/session-handoff-kit
+```
+
+Adds the `session-handoff` skill to your agent environment. Free to use. No account required.
