@@ -34,6 +34,8 @@ Included in [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-
 
 Also listed on [AwesomeSkills.dev](https://www.awesomeskills.dev/en/skill/alapha888-session-handoff-kit) and Skillstore.
 
+Also indexed on [SkillsMP](https://skillsmp.com/creators/alapha888/session-handoff-kit/skill).
+
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
