@@ -30,6 +30,8 @@ Listed at [skills.sh/alapha888/session-handoff-kit](https://skills.sh/alapha888/
 
 Listed on OpenAgentSkill: [alapha888-session-handoff-kit](https://www.openagentskill.com/skills/alapha888-session-handoff-kit)
 
+Included in [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills), a curated registry of agent skills — find it under `skills/session-handoff` in that repository.
+
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
