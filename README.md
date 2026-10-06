@@ -28,6 +28,8 @@ MIT licensed. Feedback via GitHub issues.
 
 Listed at [skills.sh/alapha888/session-handoff-kit](https://skills.sh/alapha888/session-handoff-kit).
 
+Listed on OpenAgentSkill: [alapha888-session-handoff-kit](https://www.openagentskill.com/skills/alapha888-session-handoff-kit)
+
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
