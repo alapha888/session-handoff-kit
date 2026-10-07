@@ -41,3 +41,8 @@ npx skills add alapha888/session-handoff-kit
 ```
 
 Adds the `session-handoff` skill to your agent environment. Free to use. No account required.
+
+## Validating next (not yet built)
+
+- **MDClip Pro** — web page → Markdown converter; planned ¥15/month *(not built yet, no payment taken)*. Waitlist: https://alapha888.github.io/mdclip-waitlist/ — builds only if 30 people sign up by Oct 31, 2026.
+- **SyncMatrix** — multi-account publishing management for matrix/team operators; planned ¥39/month *(not built yet, no payment taken)*. Waitlist: https://alapha888.github.io/syncmatrix-waitlist/ — builds only if 20 people sign up by Oct 31, 2026.
