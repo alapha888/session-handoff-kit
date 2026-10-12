@@ -10,6 +10,8 @@ A free kit for users of AI coding agents (Claude Code, Codex, Cursor): end every
 | `context-hygiene-checklist.md` | One-page decision guide: when to `/clear`, when to `/compact`, when to start fresh — and the 2-minute routine to run before any reset. |
 | `handoff-template.md` | A fill-in handoff note template with per-section guidance. |
 
+Read the checklist free as a Gist: [Context Hygiene Checklist for AI Coding Agents](https://gist.github.com/alapha888/7c7f0241ccd23d8a479a47ccaacf4b83).
+
 ## Install the skill
 
 Copy `SKILL.md` into a `session-handoff` folder in your agent's skills directory, or use the skills CLI:
