@@ -32,7 +32,7 @@ Never clear or terminate a session without extracting these core data points:
 
 1. **Active Diff and Branch**: Current git branch and list of dirty files (`git status -s`).
 2. **Current Error Signature**: The exact compiler error, failed assertion, or runtime stack trace (top and bottom lines).
-3. **Discarded Hypotheses**: What was attempted that failed, and why it failed.
+3. **Discarded Hypotheses**: What was attempted, why it was tried, and where it observably failed (plus what would have to change before a retry makes sense). A bare "tried X" invites a retry with a different parameter.
 4. **Immediate Target Assertion**: The specific passing criteria for the next prompt.
 
 ---

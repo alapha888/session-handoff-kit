@@ -10,11 +10,20 @@ One-line summary of overall objective and verification status of current code.
 
 <!-- 
 Key technical decisions, patterns chosen, and alternative approaches explicitly rejected.
+For each discarded approach, the reason is the load-bearing part: record why it was
+tried and where it observably failed, or the next session will retry it with a
+different parameter and fail at the same wall. This template also works mid-session
+as a diagnostic: if a field cannot be filled from actual state, that is a drift alarm.
 -->
 ### Decisions Made (With Reasons)
 - **Decision 1**: <!-- Choice made --> — *Reason*: <!-- Why this approach was selected -->
 - **Decision 2**: <!-- Choice made --> — *Reason*: <!-- Why this approach was selected -->
-- **Discarded Approach**: <!-- What alternative was tried or considered and why was it abandoned? -->
+
+### Discarded Approaches (Dead Ends)
+- **Approach**: <!-- What was tried or seriously considered -->
+  - *Tried because*: <!-- What made it look promising -->
+  - *Failed at*: <!-- The exact error, test result, or behavior that killed it -->
+  - *Retry only if*: <!-- What would have to change before trying it again is rational -->
 
 <!-- 
 Paths of files added, edited, or deleted, including key exported symbols or functions.
