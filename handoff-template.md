@@ -12,8 +12,10 @@ One-line summary of overall objective and verification status of current code.
 Key technical decisions, patterns chosen, and alternative approaches explicitly rejected.
 For each discarded approach, the reason is the load-bearing part: record why it was
 tried and where it observably failed, or the next session will retry it with a
-different parameter and fail at the same wall. This template also works mid-session
-as a diagnostic: if a field cannot be filled from actual state, that is a drift alarm.
+different parameter and fail at the same wall. Keep each field to one short line.
+This template also works mid-session as a lightweight diagnostic: at a natural
+breakpoint, try filling it from actual state — a field you cannot fill is a drift
+alarm. Do not rewrite it on a schedule.
 -->
 ### Decisions Made (With Reasons)
 - **Decision 1**: <!-- Choice made --> — *Reason*: <!-- Why this approach was selected -->
