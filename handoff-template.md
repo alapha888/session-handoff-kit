@@ -26,6 +26,7 @@ alarm. Do not rewrite it on a schedule.
   - *Tried because*: <!-- What made it look promising -->
   - *Failed at*: <!-- The exact error, test result, or behavior that killed it -->
   - *Retry only if*: <!-- What would have to change before trying it again is rational -->
+  - *Re-check*: <!-- Proposed field, under evaluation: the cheapest command that would prove the "Failed at" claim wrong today. If it cannot be run (environment moved, credentials gone), the claim is unverified — record it with an expiry, do not treat it as trusted or as disproven. -->
 
 <!-- 
 Paths of files added, edited, or deleted, including key exported symbols or functions.
