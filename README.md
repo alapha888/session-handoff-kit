@@ -40,6 +40,8 @@ Also listed on [AwesomeSkills.dev](https://www.awesomeskills.dev/en/skill/alapha
 
 Also indexed on [SkillsMP](https://skillsmp.com/creators/alapha888/session-handoff-kit/skill).
 
+Listed in [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli), a curated list of Gemini CLI resources, under Development Tools & Utilities (PR #215 merged Oct 15, 2026).
+
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
