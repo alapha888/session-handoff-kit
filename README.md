@@ -1,6 +1,6 @@
 # Session Handoff Kit
 
-A free kit for users of AI coding agents (Claude Code, Codex, Cursor): end every session with a structured handoff, so the next session — or the next agent — starts from facts, not from a degraded, over-full context.
+A free kit for users of AI coding agents (Claude Code, Codex, Cursor, Gemini CLI): end every session with a structured handoff, so the next session — or the next agent — starts from facts, not from a degraded, over-full context.
 
 ## What's inside
 
@@ -19,6 +19,8 @@ Copy `SKILL.md` into a `session-handoff` folder in your agent's skills directory
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
+
+Gemini CLI natively supports the Agent Skills standard: install with `npx skills add alapha888/session-handoff-kit --agent gemini-cli`, or copy `SKILL.md` into `~/.gemini/skills/session-handoff/` (user level) or `.gemini/skills/session-handoff/` (project level).
 
 ## Why
 
