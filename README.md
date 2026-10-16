@@ -42,6 +42,8 @@ Also indexed on [SkillsMP](https://skillsmp.com/creators/alapha888/session-hando
 
 Listed in [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli), a curated list of Gemini CLI resources, under Development Tools & Utilities (PR #215 merged Oct 15, 2026).
 
+Listed in [Chat2AnyLLM/awesome-claude-skills](https://github.com/Chat2AnyLLM/awesome-claude-skills), a catalog of Claude Code skills and resources — listed with 1 skill (count corrected Oct 17, 2026).
+
 ```bash
 npx skills add alapha888/session-handoff-kit
 ```
