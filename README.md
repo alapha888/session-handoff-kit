@@ -22,6 +22,18 @@ npx skills add alapha888/session-handoff-kit
 
 Gemini CLI natively supports the Agent Skills standard: install with `npx skills add alapha888/session-handoff-kit --agent gemini-cli`, or copy `SKILL.md` into `~/.gemini/skills/session-handoff/` (user level) or `.gemini/skills/session-handoff/` (project level).
 
+## When you may not need this
+
+If your agent's harness already handles compaction, sub-agent spawning, and memory management well, an extra handoff ritual can conflict with it instead of helping. That point was made by a maintainer reviewing this skill for GitHub's awesome-copilot collection ([PR #5097](https://github.com/github/awesome-copilot/pull/5097), closed Oct 22, 2026), and it is fair.
+
+This kit earns its keep in the gaps a single harness does not own:
+
+- Switching between different agents or tools (Claude Code → Codex → Gemini CLI), where no shared memory exists.
+- Resuming after days, not minutes, when you want a human-readable record of decisions and why they were made.
+- Working in a harness with no built-in compaction or memory handling.
+
+If none of those apply, skip the skill and let the harness do its job.
+
 ## Why
 
 Agent output quality drops as context fills with stale exploration. The fix is not a bigger context window; it is a habit: capture state before you reset, in a format the next session can execute from without re-asking you everything.
