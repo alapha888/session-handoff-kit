@@ -54,6 +54,8 @@ Adds the `session-handoff` skill to your agent environment. Free to use. No acco
 
 - **Agent Skills Pro** — Three advanced skills for AI coding agents: multi-agent task decomposition, codebase mapping, and release notes from git history. $39 one-time. https://alapha888.github.io/agent-skills-pro/
 - **Agent Skills (English)** — Five free skills for commit messages, code review, deep research, meeting notes, and technical-writing proofreading. Free, MIT. https://github.com/alapha888/agent-skills-en
+- **RunnerDriftAudit** — Free CLI that scans GitHub Actions workflows for runner-label and tool drift ahead of the ubuntu-latest 26.04 migration; the Pro edition ($29 one-time) scans a whole local workspace in one run. https://github.com/alapha888/runner-drift-audit
+- **PubAudit** — Free CLI that batch-converts Microsoft Publisher (.pub) files to PDF and verifies every output (OK / REVIEW / FAILED). https://github.com/alapha888/pubaudit
 - Full index of free tools, paid tiers, and waitlists: https://gist.github.com/alapha888/fe51434e80dbc0ef5610aeab38b025f4
 
 ## Validating next (not yet built)
