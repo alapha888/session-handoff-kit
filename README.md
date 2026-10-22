@@ -34,6 +34,8 @@ This kit earns its keep in the gaps a single harness does not own:
 
 If none of those apply, skip the skill and let the harness do its job.
 
+Full write-up: [My session-handoff skill was rejected from awesome-copilot — the maintainer had a point](https://dev.to/alapha888/my-session-handoff-skill-was-rejected-from-awesome-copilot-the-maintainer-had-a-point-4kod) (dev.to, Oct 22, 2026).
+
 ## Why
 
 Agent output quality drops as context fills with stale exploration. The fix is not a bigger context window; it is a habit: capture state before you reset, in a format the next session can execute from without re-asking you everything.
