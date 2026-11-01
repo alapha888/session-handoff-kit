@@ -66,6 +66,7 @@ Adds the `session-handoff` skill to your agent environment. Free to use. No acco
 
 ## More tools by the same author
 
+- **AGENTS.md & AI Coding-Agent Workflow Pack** — 11 AGENTS.md stack templates, a one-line CLAUDE.md shim, 3 Cursor rule examples, 51 workflow prompts and a review checklist; pairs with this kit when you want the project rules file as well as the handoff note. Pay what you want from $9 (Gumroad). https://alapha888.gumroad.com/l/agents-md-pack
 - **Agent Skills Pro** — Three advanced skills for AI coding agents: multi-agent task decomposition, codebase mapping, and release notes from git history. $39 one-time. https://alapha888.github.io/agent-skills-pro/
 - **Agent Skills (English)** — Five free skills for commit messages, code review, deep research, meeting notes, and technical-writing proofreading. Free, MIT. https://github.com/alapha888/agent-skills-en
 - **RunnerDriftAudit** — Free CLI that scans GitHub Actions workflows for runner-label and tool drift ahead of the ubuntu-latest 26.04 migration; the Pro edition ($29 one-time) scans a whole local workspace in one run. https://github.com/alapha888/runner-drift-audit
